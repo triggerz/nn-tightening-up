@@ -1,6 +1,6 @@
 # Config
  - Title: Time for tightening up
- - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521048751/download-1.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521056690/images.jpg
 
 # Description
 
