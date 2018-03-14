@@ -50,7 +50,7 @@ x
 Although you agree with the decision, you really don't want any trouble at the moment, so you pass on the news about the break rules and add that you acknowledge that the decision is inconvenient - and that you may not interely agree with it. You also say that you in principle don't care much about the rules as long as the team reaches the deadlines.
 
 # Variables
-- yourself-authentic-rolemodel    Acts as a role model of strong leadership: 0,1
+- yourself-authentic-rolemodel: 0,1
 Understand how to balance competing interests to do "the right thing" and deal with dilemmas: 0,5
 Promotes, fosters and applies the Novo Nordisk Way in all business activities and decision making: 0,2
 
