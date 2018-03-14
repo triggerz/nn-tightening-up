@@ -3,4 +3,6 @@
  - Initial Scene: scene-1
 
 # Variables
-- yourself-authentic-rolemodel
+- yourself-authentic-rolemodel: 0
+- rolemodel-decisions-competition: 0
+- rolemodel-decisions-thennway: 0
