@@ -3,8 +3,6 @@
  - Initial Scene: scene-1
 
 # Variables
- - Resources: 100
- - Engagement: 100
- - Output: 100
- - Total: 100
-
+- Acts as a role model of strong leadership
+- Understand how to balance competing interests to do "the right thing" and deal with dilemmas
+- Promotes, fosters and applies the Novo Nordisk Way in all business activities and decision making
