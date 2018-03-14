@@ -46,7 +46,7 @@ x
 Although you agree with the decision, you really don't want any trouble at the moment, so you pass on the news about the break rules and add that you acknowledge that the decision is inconvenient - and that you may not interely agree with it. You also say that you in principle don't care much about the rules as long as the team reaches the deadlines.
 
 # Variables
-x
+Acts as a role model of strong leadership
 
 # Feedback
 Maybe you chose this option because you fear the reaction of your team members and you want to soften the blow. However, covering up for their longer breaks is not a good option. You need to support and apply the decision made by the management. 
