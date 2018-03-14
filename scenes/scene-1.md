@@ -10,7 +10,7 @@ For a longer period of time, your operators have been taking lengthier and more 
 You don't respond to the management's announcement. Your team members (employees) will be informed about the changes through their union and in the monthly newsletter from the factory management.
 
 # Variables
-Understand how to balance competing interests to do "the right thing" and deal with dilemmas: 0,2
+- Understand how to balance competing interests to do "the right thing" and deal with dilemmas: 0,2
 Promotes, fosters and applies the Novo Nordisk Way in all business activities and decision making: 0,2 
 
 # Feedback
@@ -50,7 +50,7 @@ x
 Although you agree with the decision, you really don't want any trouble at the moment, so you pass on the news about the break rules and add that you acknowledge that the decision is inconvenient - and that you may not interely agree with it. You also say that you in principle don't care much about the rules as long as the team reaches the deadlines.
 
 # Variables
-Acts as a role model of strong leadership: 0,1
+- yourself-authentic-rolemodel    Acts as a role model of strong leadership: 0,1
 Understand how to balance competing interests to do "the right thing" and deal with dilemmas: 0,5
 Promotes, fosters and applies the Novo Nordisk Way in all business activities and decision making: 0,2
 
