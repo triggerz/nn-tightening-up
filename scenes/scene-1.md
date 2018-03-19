@@ -33,7 +33,7 @@ You chose to inform your team members, which shows you are behind the management
 x
 
 # Choice
-You inform your team members adding that you agree with the decision - the breaks have been too long for some time. You add, "We are responsible for delivering our targets, to ensure our customers get their orders in time." 
+You inform your team members adding that you agree with the decision - the breaks have been too long for some time. You add, "We are responsible for delivering our targets, to ensure our customers get their orders in time." YEAH
 
 # Variables
 - yourself-authentic-rolemodel: 0.7
