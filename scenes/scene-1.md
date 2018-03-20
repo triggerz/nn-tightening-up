@@ -1,6 +1,6 @@
 # Config
  - Title: Time for tightening up
- - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521496071/stock-photo-concept-of-dislike-written-on-a-note-254440180.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521574079/shutterstock_133049243.jpg
 
 # Description
 
